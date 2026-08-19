@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.11.0+cpu
+elfen>=1.3.1
+datasets>=4.8.5
+polars>=1.10.0
+spacy>=3.7.5
+wn>=0.9.5

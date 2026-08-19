@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Tutorial for elfen -  A Python Package for Efficient
+  Linguistic Feature Extraction for Natural Language
+  Datasets
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Maurer
+    given-names: Maximilian
+    email: Maximilian.Maurer@gesis.org
+    affiliation: GESIS - Leibniz Institut für Sozialwissenschaften
+    orcid: 'https://orcid.org/0009-0006-1816-3467'
+identifiers:
+  - type: url
+    value: 'https://github.com/mmmaurer/elfen-tutorials'
+    description: Repository of the tutorial
+repository-code: 'https://github.com/mmmaurer/elfen-tutorials'
